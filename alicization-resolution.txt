@@ -1,5 +1,5 @@
 Alice Resolution
 - Membuat AI
 - Membuat API
-- Membuat website
 - Membuat aplikasi mobile
+- Mendapatkan pekerjaan
